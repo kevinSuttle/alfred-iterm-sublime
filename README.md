@@ -13,4 +13,4 @@ Install workflow and enter `is` as a keyword:
 Hat tip
 -------
 
-This workflow was inspired by [LeEnno's *TerminalFinder workflow*](https://github.com/LeEnno/alfred-terminalfinder "LeEnno/AlfredWorkflows · GitHub").
+This workflow was inspired by [LeEnno's TerminalFinder workflow](https://github.com/LeEnno/alfred-terminalfinder "LeEnno/AlfredWorkflows · GitHub").
